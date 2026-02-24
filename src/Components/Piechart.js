@@ -21,6 +21,8 @@ export default function Piecharts() {
       <div className="course">
         <h5>React js</h5>
         <h5>Python</h5>
+         <h5>Python</h5>
+          <h5>Python</h5>
         <h5>JavaScript</h5>
         <h5>Django</h5>
         <h5>PostgreSQL</h5>
